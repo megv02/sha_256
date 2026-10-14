@@ -2,7 +2,6 @@
 
 A SystemVerilog RTL implementation of the SHA-256 hash core, accompanied by a testbench with directed known-answer vectors.
 
-**Repository:** https://github.com/megv02/sha_256
 
 ## Overview
 
@@ -114,8 +113,6 @@ The project includes:
 - **Power report** to analyze estimated power consumption.
 
 These reports provide a basis for evaluating the implementation across functionality, area, timing, and power.
-
-> Numerical PPA results and synthesis constraints can be added alongside the reports for reproducibility.
 
 ## Tools
 
